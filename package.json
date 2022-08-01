@@ -1,0 +1,22 @@
+{
+  "name": "rockwell-code",
+  "version": "1.0.0",
+  "description": "This is code designed for Rockwell Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikrantm1/Rockwell-Code.git"
+  },
+  "author": "Vikrant Mandle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikrantm1/Rockwell-Code/issues"
+  },
+  "homepage": "https://github.com/vikrantm1/Rockwell-Code#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
